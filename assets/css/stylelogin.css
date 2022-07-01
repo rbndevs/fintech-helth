@@ -1,0 +1,19 @@
+body{
+    background-image: url(/assets/images/2.png);
+    background-size: 130%;
+    background-position: center;
+    background-position: top;
+}
+
+div{
+    color: white;
+}
+
+figure>img{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text-center{
+    margin-top: 3px;
+}
